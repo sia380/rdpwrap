@@ -6,6 +6,7 @@ This repository contains more offsets for the RDP Wrapper Library, which aren't 
 As soon as a build has been added to the official repo, it will be removed here.
 
 Just add support by adding the offsets from the text file (in this repo) corresponding to the file version "RDPConf" shows at the end of your rdpwrap.ini.
+Do NOT forget to add a blank line (aka "CR LF") to the end of the ini to prevent RDPWrap from malfunctioning.
 
 It will only contain non-Insider versions I'm able to get from the Microsoft Update Catalog or Microsoft Download Center.
 
