@@ -73,3 +73,11 @@ none
 
 ### Windows 10 (17763)
 Currently not supported by me.
+Might change soon (TM); if someone asks for ETA, I won't do it.
+I cannot support versions just supported by Enterprise or Server editions as I cannot produce the files I need.
+Offsets will take more time to be created than before (as my system currently needs about 2 days to patch all VMs and copy the files).
+
+### Windows 10 (18362)
+Currently not supported by me.
+Might change soon (TM); if someone asks for ETA, I won't do it.
+Offsets will take more time to be created than before (as my system currently needs about 2 days to patch all VMs and copy the files).
