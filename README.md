@@ -60,7 +60,7 @@ none
 none
 
 ### Windows 10 (14393)
-none
+- 10.0.14393.3503 (work in progress)
 
 ### Windows 10 (15063)
 none
@@ -69,16 +69,25 @@ none
 none
 
 ### Windows 10 (17134)
-none
+- 10.0.17134.1304 (work in progress)
 
 ### Windows 10 (17763)
 Currently not supported by me.
 Might change soon (TM); if someone asks for ETA, I won't do it.
 I cannot support versions just supported by Enterprise or Server editions as I cannot produce the files I need.
 Offsets will take more time to be created than before (as my system currently needs about 2 days to patch all VMs and copy the files).
+- 10.0.17763.1
+- 10.0.17763.168
+- 10.0.17763.292
+- 10.0.17763.437
+- 10.0.17763.771
 
 ### Windows 10 (18362/18363)
 Currently not supported by me.
 Might change soon (TM); if someone asks for ETA, I won't do it.
 I cannot support versions just supported by Enterprise or Server editions as I cannot produce the files I need.
 Offsets will take more time to be created than before (as my system currently needs about 2 days to patch all VMs and copy the files).
+- 10.0.18362.1
+- 10.0.18362.53
+- 10.0.18362.267
+- 10.0.18362.657
