@@ -1,3 +1,5 @@
+; BROKEN
+
 [10.0.17134.1304]
 LocalOnlyPatch.x86=1
 LocalOnlyOffset.x86=ADAB8

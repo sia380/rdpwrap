@@ -69,7 +69,9 @@ none
 none
 
 ### Windows 10 (17134)
-none
+- 10.0.17134.1 (BROKEN)
+- 10.0.17134.706 (BROKEN)
+- 10.0.17134.1304 (BROKEN)
 
 ### Windows 10 (17763)
 Currently not supported by me.
