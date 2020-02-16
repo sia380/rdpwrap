@@ -60,7 +60,7 @@ none
 none
 
 ### Windows 10 (14393)
-- 10.0.14393.3503 (work in progress)
+none
 
 ### Windows 10 (15063)
 none
@@ -69,7 +69,7 @@ none
 none
 
 ### Windows 10 (17134)
-- 10.0.17134.1304 (work in progress)
+none
 
 ### Windows 10 (17763)
 Currently not supported by me.
