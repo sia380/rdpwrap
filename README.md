@@ -20,7 +20,7 @@ Currently this repo contains additional offsets (up to Windows 10 1803) for rdpw
 
 Last update: 2020-04-17
 
-Includes versions up to 2020-04-14
+Includes versions up to 2020-02-xx
 
 If you've got a version not supported by RDP Wrapper and not posted here, feel free to open an issue with file version and download link to the msu/cab-file containing the version.
 
