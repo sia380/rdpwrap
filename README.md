@@ -73,14 +73,10 @@ none
 
 ### Windows 10 (17763)
 none
+I have no possibilty to check, if these patches actually work.
 I cannot support versions just supported by Enterprise or Server editions as I cannot produce the files I need.
 
 ### Windows 10 (18362/18363)
-Currently not supported by me.
-Might change soon (TM); if someone asks for ETA, I won't do it.
+none
+I have no possibilty to check, if these patches actually work.
 I cannot support versions just supported by Enterprise or Server editions as I cannot produce the files I need.
-Offsets will take more time to be created than before (as my system currently needs about 2 days to patch all VMs and copy the files).
-- 10.0.18362.1
-- 10.0.18362.53
-- 10.0.18362.267
-- 10.0.18362.657
